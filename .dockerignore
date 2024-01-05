@@ -1,6 +1,7 @@
-**/node_modules
-client/dist/images
+node_modules
 data-node
-.env
-**/.env
+meili_data*
+# Ignore all hidden files
+.*
+
 librechat.yaml
