@@ -4,4 +4,4 @@ meili_data*
 # Ignore all hidden files
 .*
 
-librechat.yaml
+librechat.y*
